@@ -7,24 +7,19 @@
 - 🌱 I’m diving into **GraphQL** and **Cloud Computing**
 - 🤖 Exploring the world of **AI/ML** and **Data Science**
 - 🔧 Learning more about **DevOps** and **Microservices Architecture**
-- 🌐 Gaining knowledge in **Blockchain** and **Cryptocurrency**
 - 🛡️ Enhancing my skills in **Cybersecurity** and **Ethical Hacking**
 - 🏗️ Experimenting with **Serverless Computing** and **APIs**
 - 🎨 On the side, I love creating **digital art**, exploring **UX design**, capturing moments through **photography**  and staying active with **outdoor adventures**.
 
 ### 💬 Ask me about:
-  - **Modern JavaScript Frameworks:** React, Vue.js, Svelte
-  - **Backend Development:** Laravel, Node.js, Express.js
-  - **Serverless Architectures:** AWS Lambda, Google Cloud Functions, Azure Functions
+  - **Modern JavaScript Frameworks:** React, Nextjs
+  - **Backend Development:** Laravel, Node.js, Express.js, .NET
+  - **Serverless Architectures:** AWS Lambda, Azure Functions
   - **AI & Machine Learning:** Natural Language Processing (NLP), Computer Vision, Reinforcement Learning
   - **Cloud-Native Development:** Kubernetes, Docker, Microservices, CI/CD
-  - **Blockchain:** NFTs, Smart Contracts, Decentralized Finance (DeFi)
   - **DevOps Practices:** Infrastructure as Code (IaC), Continuous Deployment, Monitoring and Logging
 
 ## 🛠️ Skills & Tools
-
-
-
 
 ### Front-End
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 	![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
